@@ -9,12 +9,17 @@
 - 🌱 Siempre estoy buscando oportunidades para aprender y crecer como desarrollador.
 - ✉️ Puedes contactarme en: dariorafa29@hotmail.com
 - 🔗 Mi perfil de LinkedIn: [linkedin.com/in/dariorafaelgarciabarcenas](https://www.linkedin.com/in/dariorafaelgarciabarcenas/)
+- 💼 Mi perfil de GitHub: [github.com/DarioRafael](https://github.com/DarioRafael)
 
-#### Mis Habilidades
-- ☕ Java
-- 🐍 Python
-- 🚀 Go
-- 🖥️ JavaScript
+#### Mis Habilidades Técnicas
+- ☕ Java: █████░░░░░░░░ 60%
+- 🐍 Python: ██████░░░░░░ 30%
+- 🖥️ JavaScript: █████░░░░░ 40%
+- 🚀 Go: ██████░░░░░░ 50%
+- 💻 GitHub: █████░░░░░░ 60%
+
+#### Mis Habilidades Lingüísticas
+- 🇬🇧 Inglés Intermedio
 
 #### Mis Intereses
 - Desarrollo Web y Tecnologías Frontend.
