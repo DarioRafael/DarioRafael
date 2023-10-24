@@ -7,8 +7,14 @@
 - 📚 Actualmente estoy en mi tercer semestre de Ingeniería en Sistemas.
 - 💻 Estoy aprendiendo desarrollo web y programación en varios lenguajes.
 - 🌱 Siempre estoy buscando oportunidades para aprender y crecer como desarrollador.
-- 📧 Puedes contactarme en: dariorafa29@hotmail.com
+- ✉️ Puedes contactarme en: dariorafa29@hotmail.com
 - 🔗 Mi perfil de LinkedIn: [linkedin.com/in/dariorafaelgarciabarcenas](https://www.linkedin.com/in/dariorafaelgarciabarcenas/)
+
+#### Mis Habilidades
+- ☕ Java
+- 🐍 Python
+- 🚀 Go
+- 🖥️ JavaScript
 
 #### Mis Intereses
 - Desarrollo Web y Tecnologías Frontend.
@@ -16,7 +22,6 @@
 - Proyectos Open Source y Colaboración en la Comunidad.
 
 #### Estadísticas de GitHub
-
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DarioRafael&show_icons=true&count_private=true)
 
 ¡Gracias por visitar mi perfil! 😊
