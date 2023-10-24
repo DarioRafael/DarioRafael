@@ -17,6 +17,6 @@
 
 #### Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tunombredeusuario&show_icons=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DarioRafael&show_icons=true&count_private=true)
 
 ¡Gracias por visitar mi perfil! 😊
