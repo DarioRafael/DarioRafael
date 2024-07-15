@@ -12,11 +12,11 @@
 - 💼 Mi perfil de GitHub: [github.com/DarioRafael](https://github.com/DarioRafael)
 
 #### Mis Habilidades Técnicas
-- ☕ Java: █████░░░░░░░░ 60%
-- 🐍 Python: ██████░░░░░░ 30%
-- 🖥️ JavaScript: █████░░░░░ 40%
-- 🚀 Go: ██████░░░░░░ 50%
-- 💻 GitHub: █████░░░░░░ 60%
+- ☕ Java: Medio
+- 🐍 Python: Bajo
+- 🖥️ JavaScript: Medio
+- 🚀 Go: Medio
+- 💻 GitHub: Medio
 
 #### Mis Habilidades Lingüísticas
 - 🇬🇧 Inglés Intermedio
